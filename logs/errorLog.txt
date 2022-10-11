@@ -1,0 +1,7 @@
+4/31/2022  22:30:18	e33af7d8-3e18-4fb6-9121-150dd2050b65	UnsupportedMediaTypeError	unsupported charset "UTF8"
+4/31/2022  22:32:34	f446ea03-69fa-401f-a4b9-ba0b3cb35c46	UnsupportedMediaTypeError	unsupported charset "UTF8"
+4/31/2022  22:32:34	42426642-d94c-45fe-ae6d-2a5bb5cf84db	UnsupportedMediaTypeError	unsupported charset "UTF8"
+4/31/2022  22:32:34	e24a8b8d-e7f1-48b6-a50f-3f96f8e96eed	UnsupportedMediaTypeError	unsupported charset "UTF8"
+4/31/2022  22:41:32	e7964a96-9360-44d7-84ed-d6ca276f7ad3	UnsupportedMediaTypeError	unsupported charset "UTF8"
+5/7/2022  10:40:55	d1772add-5e1b-4367-9b98-d93a22469603	Error	Not allowed by CORS
+5/7/2022  10:40:55	450ca357-5bc6-4c43-a7d4-743ad76b151a	Error	Not allowed by CORS
